@@ -23,13 +23,6 @@
 
 
 
-no apagarse.net
-xd
-safsafasf
-
-
-nono 
-no te apages
 
 
 
