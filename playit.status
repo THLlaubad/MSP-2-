@@ -1,244 +1,984 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726068011516 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.23): 1726103794766 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068014579 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103797827 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068017655 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103800884 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068020727 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103803941 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068023844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103807018 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068026912 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103810079 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068029977 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103813149 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068033049 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103816267 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068036133 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103819362 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068039194 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103822426 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068042265 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103825536 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068045351 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103828603 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068048425 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103831665 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068051504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103834734 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068054562 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103837808 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068057637 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103840877 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068060704 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103843943 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068063770 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103847002 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068066831 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103850064 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068069901 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103853143 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068072969 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103856324 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068076040 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103859384 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068079105 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103862457 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068082165 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103865514 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068085224 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103868584 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068088294 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103871648 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068091364 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103874710 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068094438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103877784 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068097509 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103880877 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068100579 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103883935 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068103639 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103887001 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068106715 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103890063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068109779 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103893128 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068112844 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103896193 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068115906 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103899257 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068118975 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103902320 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068122039 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103905388 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068125102 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103908445 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068128173 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103911516 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068131252 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103914579 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068134317 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103917638 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068137374 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103920704 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068140441 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103923759 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068143518 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103926818 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068146582 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103929891 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068149662 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103932947 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068152733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103936008 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068155820 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103939063 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.23): 1726068158885 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.23): 1726103942140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103945196 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103948257 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103951324 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103954401 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103957466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103960538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103963602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103966677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103969739 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103972830 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103975907 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103978969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103982025 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103985080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103988147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103991216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103994280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726103997345 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104000405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104003468 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104006527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104009591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104012702 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104015798 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104018854 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104021911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104024968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104028026 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104031102 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104034167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104037229 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104040286 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104043350 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104046415 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104049474 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104052543 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104055599 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104058659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104061734 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104064824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104067915 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104070978 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104074034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104077101 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104080161 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104083221 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104086282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104089338 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104092402 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104095463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104098535 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104101591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104104653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104107710 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104110771 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104113828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104116896 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104119968 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104123053 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104126120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104129180 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104132245 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104135313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104138372 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104141436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104144504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104147568 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104150637 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104153699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104156768 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104159825 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104162898 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104165962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104169019 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104172080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104175140 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104178208 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104181277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104184341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104187437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104190533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104193591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104196657 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104199713 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104202786 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104205845 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104208907 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104211979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104215043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104218110 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104221176 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104224240 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104227300 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104230357 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104233421 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104236483 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104239548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104242611 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104245689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104248780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104251848 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104254911 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104257973 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104261030 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104264090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104267149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104270216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104273276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104276341 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104279397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104282452 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104285511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104288646 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104291700 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104294758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104297818 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104300880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104303951 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104307023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104310085 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104313142 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104316204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104319271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104322326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104325385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104328450 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104331504 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104334570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104337658 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104340716 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104343872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104346941 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104350000 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104353057 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104356122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104359183 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104362254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104365321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104368384 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104371451 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104374520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104377582 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104380643 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104383705 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104386765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104389841 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104392910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+jan-discrimination.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.23): 1726104396023 tunnel running, 1 tunnels registered
 
 
 TUNNELS
