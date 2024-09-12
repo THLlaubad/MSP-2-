@@ -28,6 +28,8 @@ xd
 safsafasf
 
 
+nono 
+no te apages
 
 
 
