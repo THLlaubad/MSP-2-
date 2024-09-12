@@ -20,9 +20,7 @@
 
  
 
-no debe apagarse
-x
-d
+
 
 
 
