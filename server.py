@@ -21,13 +21,10 @@
  
 
 
- 
+ jgjfgf
+fgjgf
 
-
-
-
-
-
+gsdgdsfgh
 
 # No toques nada de aquí para abajo, puedes dañarlo
 import requests,os,base64,glob,time
