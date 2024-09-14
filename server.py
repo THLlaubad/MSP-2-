@@ -18,16 +18,7 @@
 # us-cal-1	      Estados unidos (California)
 
 
- sadasjdopsa
-nonlocal
-no apagar
-locals
 
-xd
-lagaso
-
-
-naaaaa yt es una garcha
 
 
 
