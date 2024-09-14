@@ -23,8 +23,11 @@ nonlocal
 no apagar
 locals
 
+xd
+lagaso
 
 
+naaaaa yt es una garcha
 
 
 
